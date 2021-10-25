@@ -1,0 +1,16 @@
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.csproj.AssemblyReference.cache
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.GeneratedMSBuildEditorConfig.editorconfig
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.AssemblyInfoInputs.cache
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.AssemblyInfo.cs
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.csproj.CoreCompileInputs.cache
+/home/damilare/Desktop/string/bin/Debug/net5.0/string
+/home/damilare/Desktop/string/bin/Debug/net5.0/string.deps.json
+/home/damilare/Desktop/string/bin/Debug/net5.0/string.runtimeconfig.json
+/home/damilare/Desktop/string/bin/Debug/net5.0/string.runtimeconfig.dev.json
+/home/damilare/Desktop/string/bin/Debug/net5.0/string.dll
+/home/damilare/Desktop/string/bin/Debug/net5.0/ref/string.dll
+/home/damilare/Desktop/string/bin/Debug/net5.0/string.pdb
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.dll
+/home/damilare/Desktop/string/obj/Debug/net5.0/ref/string.dll
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.pdb
+/home/damilare/Desktop/string/obj/Debug/net5.0/string.genruntimeconfig.cache
